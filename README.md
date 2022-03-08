@@ -2,6 +2,7 @@
 
 **Bachelor of Computer Science** | **Software Engineer**
 
+![GitHub followers](https://img.shields.io/github/followers/Saniewski?style=social)<br>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSaniewski&labelColor=%231f2833&countColor=%2345a29e&style=plastic)
 
 <br>
