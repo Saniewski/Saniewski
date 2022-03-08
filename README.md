@@ -20,7 +20,7 @@
 [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)](https://github.com/Saniewski/Saniewski)
 [![csharp](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)](https://github.com/Saniewski/Saniewski)
 [![java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)](https://github.com/Saniewski/Saniewski)
-[![zorinos](https://img.shields.io/badge/Zorin%20OS-ffffff?style=plastic&logo=zorin)](https://github.com/Saniewski/Saniewski)
+[![zorinos](https://img.shields.io/badge/Zorin%20OS-ffffff?style=plastic&logo=zorin)](https://zorin.com/os)
 
 <a href="https://github.com/Saniewski/Saniewski">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saniewski&show_icons=true&hide=issues" />
