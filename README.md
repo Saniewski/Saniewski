@@ -8,16 +8,17 @@
 
 |About Me||
 |-|-|
-|**Info:**|Male, 23 years old, Poland/USA|
-|**Programming:**|[![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
-|**Analytics:**|[![Python][113]][13]<br>[![SQL][114]][14] [![MS SQL Server][115]][15]<br>[![Excel][116]][16]|
-|**Management:**|[![Jira][117]][17] [![Confluence][118]][18] [![Git][119]][19] [![GanttProject][120]][20]|
-|**Languages:**|[![English][121]][21] [![Polish][122]][22]|
+|**:bulb: Info:**|Male, 23 years old, Poland/USA|
+|**:computer: Programming:**|[![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
+|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![SQL][114]][14] [![MS SQL Server][115]][15]<br>[![Excel][116]][16]|
+|**:notebook: Management:**|[![Jira][117]][17] [![Confluence][118]][18] [![Git][119]][19] [![GanttProject][120]][20]|
+|**:thought_balloon: Languages:**|[![English][121]][21] [![Polish][122]][22]|
 |**:fire: Open Source:**|[![Zorin OS][123]][23] [![Debian][124]][24]|
 
 <a href="https://github.com/Saniewski/Saniewski">
   <img alt="Paweł Saniewski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniewski&show_icons=true&hide=issues"/>
 </a>
+<br>
 <a href="https://github.com/Saniewski/Saniewski">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniewski&layout=compact&hide=jupyter%20notebook&langs_count=6"/>
 </a>
