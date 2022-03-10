@@ -29,18 +29,14 @@
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniewski&layout=compact&hide=jupyter%20notebook&langs_count=6"/>
 </a>
 
-<br><br>
+<br>
 
 ## Certifications & Awards
 
-<br>
-
 ### Open Data Addathon 2021
-<br>
-<img alt="FormulaAI-Hack-2022" src="./assets/Open-Data-Addathon-Participant.png" style="display: block; margin-left: auto; margin-right: auto; width: 80%">
 
-<br>
+<img alt="FormulaAI-Hack-2022" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
 
 ### FormulaAI Hack 2022
 
-<img alt="FormulaAI-Hack-2022" src="./assets/FormulaAI-Hack-2022.png" style="display: block; margin-left: auto; margin-right: auto;">
+<img alt="FormulaAI-Hack-2022" src="https://github.com/Saniewski/Saniewski/blob/master/assets/FormulaAI-Hack-2022.png">
