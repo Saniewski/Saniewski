@@ -23,8 +23,24 @@
 [![zorinos](https://img.shields.io/badge/Zorin%20OS-ffffff?style=plastic&logo=zorin)](https://zorin.com/os)
 
 <a href="https://github.com/Saniewski/Saniewski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saniewski&show_icons=true&hide=issues" />
+  <img alt="Paweł Saniewski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniewski&show_icons=true&hide=issues"/>
 </a>
 <a href="https://github.com/Saniewski/Saniewski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniewski&layout=compact&hide=jupyter%20notebook&langs_count=6" />
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saniewski&layout=compact&hide=jupyter%20notebook&langs_count=6"/>
 </a>
+
+<br><br>
+
+## Certifications & Awards
+
+<br>
+
+### Open Data Addathon 2021
+<br>
+<img alt="FormulaAI-Hack-2022" src="./assets/Open-Data-Addathon-Participant.png" style="display: block; margin-left: auto; margin-right: auto; width: 80%">
+
+<br>
+
+### FormulaAI Hack 2022
+
+<img alt="FormulaAI-Hack-2022" src="./assets/FormulaAI-Hack-2022.png" style="display: block; margin-left: auto; margin-right: auto;">
