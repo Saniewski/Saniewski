@@ -10,7 +10,7 @@
 |-|-|
 |**:bulb: Info:**|Male, 23 years old, Poland/USA|
 |**:computer: Programming:**|[![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
-|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![SQL][114]][14] [![MS SQL Server][115]][15]<br>[![Excel][116]][16]|
+|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![MySQL][114]][14] [![MS SQL Server][115]][15]<br>[![Excel][116]][16]|
 |**:notebook: Management:**|[![Jira][117]][17] [![Confluence][118]][18] [![Git][119]][19] [![GanttProject][120]][20]|
 |**:thought_balloon: Languages:**|[![English][121]][21] [![Polish][122]][22]|
 |**:fire: Open Source:**|[![Zorin OS][123]][23] [![Debian][124]][24]|
@@ -29,36 +29,39 @@
 
 ### Open Data Addathon 2021
 
-<img alt="Open Data Addathon" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
+<a href="https://addathon.adda.gov.ae">
+  <img alt="Open Data Addathon" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
+</a>
 
 ### FormulaAI Hack 2022
-
-<img alt="FormulaAI-Hack-2022" src="https://github.com/Saniewski/Saniewski/blob/master/assets/FormulaAI-Hack-2022.png">
+<a href="https://www.formulaaihack.com">
+  <img alt="FormulaAI-Hack-2022" src="https://github.com/Saniewski/Saniewski/blob/master/assets/FormulaAI-Hack-2022.png">
+</a>
 
 [1]: https://github.com/Saniewski/Saniewski
 [2]: https://www.linkedin.com/in/pawelsaniewski
 [3]: https://github.com/Saniewski/Saniewski
-[4]: https://github.com/Saniewski/Saniewski
-[5]: https://github.com/Saniewski/Saniewski
-[6]: https://github.com/Saniewski/Saniewski
-[7]: https://github.com/Saniewski/Saniewski
-[8]: https://github.com/Saniewski/Saniewski
-[9]: https://github.com/Saniewski/Saniewski
-[10]: https://github.com/Saniewski/Saniewski
-[11]: https://github.com/Saniewski/Saniewski
-[12]: https://github.com/Saniewski/Saniewski
-[13]: https://github.com/Saniewski/Saniewski
-[14]: https://github.com/Saniewski/Saniewski
-[15]: https://github.com/Saniewski/Saniewski
-[16]: https://github.com/Saniewski/Saniewski
-[17]: https://github.com/Saniewski/Saniewski
-[18]: https://github.com/Saniewski/Saniewski
-[19]: https://github.com/Saniewski/Saniewski
-[20]: https://github.com/Saniewski/Saniewski
-[21]: https://github.com/Saniewski/Saniewski
-[22]: https://github.com/Saniewski/Saniewski
+[4]: https://dotnet.microsoft.com
+[5]: https://dotnet.microsoft.com
+[6]: https://www.mono-project.com
+[7]: https://angular.io
+[8]: https://vuejs.org
+[9]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[10]: https://www.typescriptlang.org
+[11]: https://www.gnu.org/software/bash
+[12]: https://www.java.com
+[13]: https://www.python.org
+[14]: https://www.mysql.com
+[15]: https://www.microsoft.com/en-us/sql-server
+[16]: https://www.microsoft.com/en/microsoft-365/excel
+[17]: https://www.atlassian.com/software/jira
+[18]: https://www.atlassian.com/software/confluence
+[19]: https://git-scm.com
+[20]: https://www.ganttproject.biz
+[21]: https://english.stackexchange.com
+[22]: https://translate.google.com
 [23]: https://zorin.com/os
-[24]: https://debian.com
+[24]: https://www.debian.org
 
 [101]: https://img.shields.io/github/followers/Saniewski?style=social
 [102]: https://img.shields.io/badge/LinkedIn-350+-0077B5?style=social&logo=linkedin
