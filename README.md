@@ -27,19 +27,17 @@
 
 ## Certifications & Awards
 
-### Open Data Addathon 2021
 <a href="https://addathon.adda.gov.ae">
   <img alt="Open Data Addathon" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
 </a>
 
-### FormulaAI Hack 2022
-<a href="https://www.formulaaihack.com">
-  <img alt="FormulaAI Hack 2022" src="https://github.com/Saniewski/Saniewski/blob/master/assets/FormulaAI-Hack-2022.png">
-</a>
+## Badges
 
-### ngVikings 2020
 <a href="https://www.ngvikings.org">
-  <img alt="ngVikings 2020" src="https://github.com/Saniewski/Saniewski/blob/master/assets/ngVikings-2020.png">
+  <img alt="ngVikings 2020" src="https://github.com/Saniewski/Saniewski/blob/master/assets/ngVikings-2020.jpg" style="width: 33%;">
+</a>
+<a href="https://www.formulaaihack.com">
+  <img alt="FormulaAI Hack 2022" src="https://github.com/Saniewski/Saniewski/blob/master/assets/FormulaAI-Hack-2022.png" style="width: 33%;">
 </a>
 
 [1]: https://github.com/Saniewski/Saniewski
