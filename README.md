@@ -13,7 +13,7 @@
 |**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![MySQL][114]][14] [![MS SQL Server][115]][15]<br>[![Excel][116]][16]|
 |**:notebook: Management:**|[![Jira][117]][17] [![Confluence][118]][18] [![Git][119]][19] [![GanttProject][120]][20]|
 |**:thought_balloon: Languages:**|[![English][121]][21] [![Polish][122]][22]|
-|**:fire: Open Source:**|[![Zorin OS][123]][23] [![Debian][124]][24] [![ProtonDB][125]][25]|
+|**:fire: Open Source:**|[![Debian][126]][26] [![Zorin OS][123]][23] [![Debian][124]][24] [![ProtonDB][125]][25]|
 
 <a href="https://github.com/Saniewski/Saniewski">
   <img alt="Paweł Saniewski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniewski&show_icons=true&hide=issues"/>
@@ -65,6 +65,7 @@
 [23]: https://zorin.com/os
 [24]: https://www.debian.org
 [25]: https://www.protondb.com
+[26]: https://manjaro.org
 
 [101]: https://img.shields.io/github/followers/Saniewski?style=social
 [102]: https://img.shields.io/badge/LinkedIn-400+-0077B5?style=social&logo=linkedin
@@ -91,3 +92,4 @@
 [123]: https://img.shields.io/badge/Zorin%20OS-FFF?style=plastic&logo=zorin
 [124]: https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white
 [125]: https://img.shields.io/badge/ProtonDB-F50057?style=plastic&logo=protondb&logoColor=white
+[126]: https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=white
