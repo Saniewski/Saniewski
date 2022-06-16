@@ -28,7 +28,16 @@
 ## Certifications & Awards
 
 <a href="https://addathon.adda.gov.ae">
-  <img alt="Open Data Addathon" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
+  <img alt="Open Data Addathon - 2nd Prize Winner" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Certificate_Open_Data_Addathon.png">
+</a>
+<a href="https://addathon.adda.gov.ae">
+  <img alt="Open Data Addathon - Participant's Certificate of Appreciation" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
+</a>
+<a href="https://www.sololearn.com/certificates/course/en/6226978/1164/landscape/png">
+  <img alt="Sololearn Go Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-go-certificate.png">
+</a>
+<a href="https://www.sololearn.com/Certificate/1068-6226978/jpg/">
+  <img alt="Sololearn Java Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-java-certificate.jpg">
 </a>
 
 ## Badges
