@@ -8,8 +8,8 @@
 
 |About Me||
 |-|-|
-|**:bulb: Info:**|Male, 23 years old, Poland/USA|
-|**:computer: Programming:**|[![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
+|**:bulb: Info:**|Male, 24 years old, Poland/USA|
+|**:computer: Programming:**|[![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Go][127]][27] [![Java][112]][12]<br>[![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
 |**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![MySQL][114]][14] [![MS SQL Server][115]][15]<br>[![Excel][116]][16]|
 |**:notebook: Management:**|[![Jira][117]][17] [![Confluence][118]][18] [![Git][119]][19] [![GanttProject][120]][20]|
 |**:thought_balloon: Languages:**|[![English][121]][21] [![Polish][122]][22]|
@@ -75,19 +75,20 @@
 [24]: https://www.debian.org
 [25]: https://www.protondb.com
 [26]: https://manjaro.org
+[27]: https://go.dev
 
 [101]: https://img.shields.io/github/followers/Saniewski?style=social
 [102]: https://img.shields.io/badge/LinkedIn-400+-0077B5?style=social&logo=linkedin
 [103]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSaniewski&labelColor=%231f2833&countColor=%2345a29e&style=plastic
 [104]: https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white
 [105]: https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white
-[106]: https://img.shields.io/badge/Mono-5c7280?style=plastic
+[106]: https://img.shields.io/badge/Mono-5C7280?style=plastic
 [107]: https://img.shields.io/badge/Angular-DD0031?style=plastic&logo=angular&logoColor=white
 [108]: https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white
 [109]: https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white
 [110]: https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white
 [111]: https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnubash&logoColor=white
-[112]: https://img.shields.io/badge/Java-dc2c00?style=plastic&logo=java&logoColor=white
+[112]: https://img.shields.io/badge/Java-DC2C00?style=plastic&logo=java&logoColor=white
 [113]: https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white
 [114]: https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white
 [115]: https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white
@@ -102,3 +103,4 @@
 [124]: https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white
 [125]: https://img.shields.io/badge/ProtonDB-F50057?style=plastic&logo=protondb&logoColor=white
 [126]: https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=white
+[127]: https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white
