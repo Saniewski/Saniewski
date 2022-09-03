@@ -25,7 +25,7 @@
 
 <br>
 
-## Certifications & Awards
+## Certificates & Awards
 
 <a href="https://addathon.adda.gov.ae">
   <img alt="Open Data Addathon - 2nd Prize Winner" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Certificate_Open_Data_Addathon.png">
