@@ -33,6 +33,9 @@
 <a href="https://addathon.adda.gov.ae">
   <img alt="Open Data Addathon - Participant's Certificate of Appreciation" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
 </a>
+<a href="https://coursera.org/verify/C9QWPZMG3MHD">
+  <img alt="Google Cloud Fundamentals: Core Infrastructure" src="https://coursera.org/share/d533286b5dab8e6c3fed21ba277b2f57">
+</a>
 <a href="https://www.sololearn.com/certificates/course/en/6226978/1164/landscape/png">
   <img alt="Sololearn Go Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-go-certificate.png">
 </a>
