@@ -40,7 +40,7 @@
   <img alt="Sololearn Go Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-go-certificate.png">
 </a>
 <a href="https://www.sololearn.com/Certificate/1068-6226978/jpg/">
-  <img alt="Sololearn Java Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-java-certificate.jpg">
+  <img alt="Sololearn Java Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-java-certificate.png">
 </a>
 
 ## Badges
