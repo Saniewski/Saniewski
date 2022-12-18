@@ -36,11 +36,17 @@
 <a href="https://coursera.org/verify/C9QWPZMG3MHD">
   <img alt="Google Cloud Fundamentals: Core Infrastructure" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Google-Cloud-Fundamentals-Cloud-Infrastructure-Coursera.png">
 </a>
+<a href="http://ude.my/UC-00d2c6f9-584a-45e1-b3e2-d5b27bbc12c0">
+  <img alt="Python for Data Science and Machine Learning Bootcamp" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Python-for-Data-Science-and-Machine-Learning-Bootcamp_UC.jpg">
+</a>
 <a href="https://www.sololearn.com/certificates/course/en/6226978/1164/landscape/png">
   <img alt="Sololearn Go Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-go-certificate.png">
 </a>
 <a href="https://www.sololearn.com/Certificate/1068-6226978/jpg/">
   <img alt="Sololearn Java Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-java-certificate.png">
+</a>
+<a href="https://dssconf.pl">
+  <img alt="Data Science Summit 2022 Certificate of Attendance" src="https://github.com/Saniewski/Saniewski/blob/master/assets/DSS-certificate-2022.png">
 </a>
 
 ## Badges
