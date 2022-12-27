@@ -9,8 +9,9 @@
 |About Me||
 |-|-|
 |**:bulb: Info:**|Male, 24 years old, Poland/USA|
-|**:computer: Programming:**|[![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Go][127]][27] [![Java][112]][12]<br>[![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
-|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![MySQL][114]][14] [![MS SQL Server][115]][15]<br>[![Excel][116]][16]|
+|**:computer: Programming:**|[![Go][127]][27] [![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![React][131]][31] [![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
+|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![MySQL][114]][14] [![PostgreSQL][129]][29] [![MS SQL Server][115]][15]<br>[![Excel][130]][30] [![Excel][116]][16]|
+|**:cloud: Cloud:**|[![GCP][132]][32] [![AWS][133]][33]|
 |**:notebook: Management:**|[![Jira][117]][17] [![Confluence][118]][18] [![Git][119]][19] [![GanttProject][120]][20]|
 |**:thought_balloon: Languages:**|[![English][121]][21] [![Polish][122]][22]|
 |**:fire: Open Source:**|[![Debian][126]][26] [![Zorin OS][123]][23] [![Debian][124]][24]<br>[![Jupyter][128]][28] [![ProtonDB][125]][25]|
@@ -33,8 +34,11 @@
 <a href="https://addathon.adda.gov.ae">
   <img alt="Open Data Addathon - Participant's Certificate of Appreciation" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
 </a>
+<a href="https://coursera.org/verify/E9YTUMKJ83HS">
+  <img alt="Essential Google Cloud Infrastructure: Foundation" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Essential-Google-Cloud-Infrastructure_Foundation.png">
+</a>
 <a href="https://coursera.org/verify/C9QWPZMG3MHD">
-  <img alt="Google Cloud Fundamentals: Core Infrastructure" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Google-Cloud-Fundamentals-Cloud-Infrastructure-Coursera.png">
+  <img alt="Google Cloud Fundamentals: Core Infrastructure" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Google-Cloud-Fundamentals_Core-Infrastructure.png">
 </a>
 <a href="http://ude.my/UC-00d2c6f9-584a-45e1-b3e2-d5b27bbc12c0">
   <img alt="Python for Data Science and Machine Learning Bootcamp" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Python-for-Data-Science-and-Machine-Learning-Bootcamp_UC.jpg">
@@ -86,6 +90,11 @@
 [26]: https://manjaro.org
 [27]: https://go.dev
 [28]: https://jupyter.org
+[29]: https://www.postgresql.org
+[30]: https://www.mongodb.com
+[31]: https://reactjs.org
+[32]: https://cloud.google.com
+[33]: https://aws.amazon.com
 
 [101]: https://img.shields.io/github/followers/Saniewski?style=social
 [102]: https://img.shields.io/badge/LinkedIn-400+-0077B5?style=social&logo=linkedin
@@ -115,3 +124,8 @@
 [126]: https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=white
 [127]: https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white
 [128]: https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white
+[129]: https://img.shields.io/badge/PostgreSQL-4169E1?style=plastic&logo=postgresql&logoColor=white
+[130]: https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white
+[131]: https://img.shields.io/badge/React-000?style=plastic&logo=react
+[132]: https://img.shields.io/badge/Google%20Cloud-FFF?style=plastic&logo=googlecloud
+[133]: https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=FFF&labelColor=232F3E
