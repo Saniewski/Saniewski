@@ -97,7 +97,7 @@
 [33]: https://aws.amazon.com
 
 [101]: https://img.shields.io/github/followers/Saniewski?style=social
-[102]: https://img.shields.io/badge/LinkedIn-400+-0077B5?style=social&logo=linkedin
+[102]: https://img.shields.io/badge/LinkedIn-500+-0077B5?style=social&logo=linkedin
 [103]: https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSaniewski&labelColor=%231f2833&countColor=%2345a29e&style=plastic
 [104]: https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white
 [105]: https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white
