@@ -10,7 +10,7 @@
 |-|-|
 |**:bulb: Info:**|Male, 24 years old, Poland/USA|
 |**:computer: Programming:**|[![Go][127]][27] [![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![React][131]][31] [![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
-|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![MySQL][114]][14] [![PostgreSQL][129]][29] [![MS SQL Server][115]][15]<br>[![Excel][130]][30] [![Excel][116]][16]|
+|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![MySQL][114]][14] [![PostgreSQL][129]][29] [![MS SQL Server][115]][15]<br>[![MongoDB][130]][30] [![QGIS][134]][34] [![Excel][116]][16]|
 |**:cloud: Cloud:**|[![GCP][132]][32] [![AWS][133]][33]|
 |**:notebook: Management:**|[![Jira][117]][17] [![Confluence][118]][18] [![Git][119]][19] [![GanttProject][120]][20]|
 |**:thought_balloon: Languages:**|[![English][121]][21] [![Polish][122]][22]|
@@ -95,6 +95,7 @@
 [31]: https://reactjs.org
 [32]: https://cloud.google.com
 [33]: https://aws.amazon.com
+[34]: https://www.qgis.org
 
 [101]: https://img.shields.io/github/followers/Saniewski?style=social
 [102]: https://img.shields.io/badge/LinkedIn-500+-0077B5?style=social&logo=linkedin
@@ -129,3 +130,4 @@
 [131]: https://img.shields.io/badge/React-000?style=plastic&logo=react
 [132]: https://img.shields.io/badge/Google%20Cloud-FFF?style=plastic&logo=googlecloud
 [133]: https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=FFF&labelColor=232F3E
+[134]: https://img.shields.io/badge/QGIS-589632?style=plastic&logo=qgis&logoColor=white
