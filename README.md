@@ -1,6 +1,6 @@
 # Paweł Saniewski
 
-**Bachelor of Computer Science** | **Software Engineer**
+**Senior Software Engineer & Software Engineering Consultant with 5+ years of experience**
 
 [![GitHub][101]][1]
 [![LinkedIn][102]][2]
@@ -8,13 +8,13 @@
 
 |About Me||
 |-|-|
-|**:bulb: Info:**|Male, 24 years old, Poland/USA|
-|**:computer: Programming:**|[![Go][127]][27] [![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![React][131]][31] [![Angular][107]][7] [![Vue.js][108]][8] [![JavaScript][109]][9] [![TypeScript][110]][10]<br>[![Bash][111]][11]|
-|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![MySQL][114]][14] [![PostgreSQL][129]][29] [![MS SQL Server][115]][15]<br>[![MongoDB][130]][30] [![QGIS][134]][34] [![Excel][116]][16]|
-|**:cloud: Cloud:**|[![GCP][132]][32] [![AWS][133]][33]|
-|**:notebook: Management:**|[![Jira][117]][17] [![Confluence][118]][18] [![Git][119]][19] [![GanttProject][120]][20]|
+|**:bulb: Info:**|Male \| 26 years old \| Warsaw, Poland \| New York City, USA|
+|**:computer: Programming:**|[![Go][127]][27] [![Python][113]][13] [![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![JavaScript][109]][9] [![TypeScript][110]][10] [![Angular][107]][7] [![React][131]][31] [![Vue.js][108]][8]<br>[![Bash][111]][11]|
+|**:cloud: Infrastructure:**|[![Docker][135]][35] [![Swarm][136]][36] [![Terraform][137]][37] [![Kubernetes][138]][38] [![Helm][139]][39] [![RabbitMQ][140]][40] [![MQTT][141]][41]<br>[![GCP][132]][32] [![AWS][133]][33]|
+|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![PostgreSQL][129]][29] [![MySQL][114]][14] [![MariaDB][142]][42] [![MS SQL Server][115]][15]<br>[![BigQuery][143]][43] [![Looker Studio][144]][44] [![MongoDB][130]][30] [![Cassandra][145]][45] [![Redis][146]][46] [![etcd][147]][47] [![Milvus][148]][48] [![Qdrant][149]][49]<br>[![QGIS][134]][34] [![Excel][116]][16]|
+|**:notebook: Management:**|[![Jira][117]][17] [![VersionOne][150]][50] [![Confluence][118]][18] [![Git][119]][19] [![GitHub][151]][51] [![GitLab][152]][52] [![Lark][153]][53] [![GanttProject][120]][20]|
 |**:thought_balloon: Languages:**|[![English][121]][21] [![Polish][122]][22]|
-|**:fire: Open Source:**|[![Debian][126]][26] [![Zorin OS][123]][23] [![Debian][124]][24]<br>[![Jupyter][128]][28] [![ProtonDB][125]][25]|
+|**:fire: Open Source:**|[![Jupyter][128]][28] [![OpenTofu][154]][54] [![ProtonDB][125]][25]<br>[![Manjaro][126]][26] [![Zorin OS][123]][23] [![Debian][124]][24]|
 
 <a href="https://github.com/Saniewski/Saniewski">
   <img alt="Paweł Saniewski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Saniewski&show_icons=true&hide=issues"/>
@@ -34,14 +34,26 @@
 <a href="https://addathon.adda.gov.ae">
   <img alt="Open Data Addathon - Participant's Certificate of Appreciation" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Open-Data-Addathon-Participant.png">
 </a>
+<a href="https://app.pluralsight.com/achievements/share/c2162afa-cd5a-4b8e-bf28-dc4ea53c6c66">
+  <img alt="Packaging Applications with Helm for Kubernetes" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Packaging-Applications-with-Helm-for-Kubernetes.png">
+</a>
+<a href="https://coursera.org/verify/LFLHBXHE7B3T">
+  <img alt="Custom Providers with Terraform" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Custom-Providers-with-Terraform.png">
+</a>
+<a href="https://coursera.org/verify/WBRXJT2EVEDV">
+  <img alt="Deploy Kubernetes Load Balancer Service with Terraform" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Deploy-Kubernetes-Load-Balancer-Service-with-Terraform.png">
+</a>
+<a href="https://coursera.org/verify/YZ8KFB3YLVMB">
+  <img alt="Monitoring Kubernetes Cluster using Prometheus and Grafana" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Monitoring-Kubernetes-Cluster-using-Prometheus-and-Grafana.png">
+</a>
 <a href="https://coursera.org/verify/E9YTUMKJ83HS">
   <img alt="Essential Google Cloud Infrastructure: Foundation" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Essential-Google-Cloud-Infrastructure_Foundation.png">
 </a>
-<a href="https://coursera.org/verify/C9QWPZMG3MHD">
-  <img alt="Google Cloud Fundamentals: Core Infrastructure" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Google-Cloud-Fundamentals_Core-Infrastructure.png">
-</a>
 <a href="http://ude.my/UC-00d2c6f9-584a-45e1-b3e2-d5b27bbc12c0">
   <img alt="Python for Data Science and Machine Learning Bootcamp" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Python-for-Data-Science-and-Machine-Learning-Bootcamp_UC.jpg">
+</a>
+<a href="https://coursera.org/verify/C9QWPZMG3MHD">
+  <img alt="Google Cloud Fundamentals: Core Infrastructure" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Google-Cloud-Fundamentals_Core-Infrastructure.png">
 </a>
 <a href="https://www.sololearn.com/certificates/course/en/6226978/1164/landscape/png">
   <img alt="Sololearn Go Certificate" src="https://github.com/Saniewski/Saniewski/blob/master/assets/Sololearn-go-certificate.png">
@@ -96,6 +108,26 @@
 [32]: https://cloud.google.com
 [33]: https://aws.amazon.com
 [34]: https://www.qgis.org
+[35]: https://https://www.docker.com
+[36]: https://docs.docker.com/engine/swarm/
+[37]: https://www.terraform.io
+[38]: https://kubernetes.io
+[39]: https://helm.sh
+[40]: https://www.rabbitmq.com
+[41]: https://mqtt.org
+[42]: https://mariadb.org
+[43]: https://cloud.google.com/bigquery
+[44]: https://cloud.google.com/looker-studio
+[45]: https://cassandra.apache.org
+[46]: https://redis.io
+[47]: https://etcd.io
+[48]: https://milvus.io
+[49]: https://qdrant.tech
+[50]: https://digital.ai/products/agility
+[51]: https://github.com
+[52]: https://about.gitlab.com
+[53]: https://www.larksuite.com
+[54]: https://opentofu.org
 
 [101]: https://img.shields.io/github/followers/Saniewski?style=social
 [102]: https://img.shields.io/badge/LinkedIn-500+-0077B5?style=social&logo=linkedin
@@ -117,7 +149,7 @@
 [118]: https://img.shields.io/badge/Confluence-172B4D?style=plastic&logo=confluence&logoColor=white
 [119]: https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white
 [120]: https://img.shields.io/badge/GanttProject-424242?style=plastic
-[121]: https://img.shields.io/badge/English-C1-FFF?style=plastic&color=CC2927&labelColor=0052CC
+[121]: https://img.shields.io/badge/English-C2%7Cbusiness%20proficiency-FFF?style=plastic&color=CC2927&labelColor=0052CC
 [122]: https://img.shields.io/badge/Polish-native-FFF?style=plastic&color=CC2927&labelColor=FFF
 [123]: https://img.shields.io/badge/Zorin%20OS-FFF?style=plastic&logo=zorin
 [124]: https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white
@@ -129,5 +161,25 @@
 [130]: https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white
 [131]: https://img.shields.io/badge/React-000?style=plastic&logo=react
 [132]: https://img.shields.io/badge/Google%20Cloud-FFF?style=plastic&logo=googlecloud
-[133]: https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonaws&logoColor=FFF&labelColor=232F3E
+[133]: https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazonwebservices&logoColor=FFF&labelColor=232F3E
 [134]: https://img.shields.io/badge/QGIS-589632?style=plastic&logo=qgis&logoColor=white
+[135]: https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white
+[136]: https://img.shields.io/badge/Swarm-2496ED?style=plastic&logo=docker&logoColor=white
+[137]: https://img.shields.io/badge/Terraform-844FBA?style=plastic&logo=terraform&logoColor=white
+[138]: https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white
+[139]: https://img.shields.io/badge/Helm-0F1689?style=plastic&logo=helm&logoColor=white
+[140]: https://img.shields.io/badge/RabbitMQ-FF6600?style=plastic&logo=rabbitmq&logoColor=white
+[141]: https://img.shields.io/badge/MQTT-660066?style=plastic&logo=mqtt&logoColor=white
+[142]: https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white
+[143]: https://img.shields.io/badge/BigQuery-669DF6?style=plastic&logo=googlebigquery&logoColor=white
+[144]: https://img.shields.io/badge/Looker%20Studio-4285F4?style=plastic&logo=looker&logoColor=white
+[145]: https://img.shields.io/badge/Cassandra-1287B1?style=plastic&logo=apachecassandra&logoColor=white
+[146]: https://img.shields.io/badge/Redis-FF4438?style=plastic&logo=redis&logoColor=white
+[147]: https://img.shields.io/badge/etcd-419EDA?style=plastic&logo=etcd&logoColor=white
+[148]: https://img.shields.io/badge/Milvus-00A1EA?style=plastic&logo=milvus&logoColor=white
+[149]: https://img.shields.io/badge/Qdrant-DC244D?style=plastic&logo=qdrant&logoColor=black
+[150]: https://img.shields.io/badge/VersionOne-517934?style=plastic&logo=versionone&logoColor=white
+[151]: https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white
+[152]: https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=black
+[153]: https://img.shields.io/badge/Lark-3570FF?style=plastic&logo=lark&logoColor=white
+[154]: https://img.shields.io/badge/OpenTofu-FFDA18?style=plastic&logo=opentofu&logoColor=black
