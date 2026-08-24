@@ -17,11 +17,11 @@
 |**:fire: Open Source:**|[![Jupyter][128]][28] [![OpenTofu][154]][54] [![ProtonDB][125]][25]<br>[![Manjaro][126]][26] [![Zorin OS][123]][23] [![Debian][124]][24]|
 
 <a href="https://github.com/Saniewski/Saniewski">
-  <img alt="Paweł Saniewski's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Saniewski&show_icons=true&hide=issues"/>
+  <img alt="Paweł Saniewski's GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=Saniewski&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=transparent"/>
 </a>
 <br>
 <a href="https://github.com/Saniewski/Saniewski">
-  <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saniewski&layout=compact&hide=jupyter%20notebook&langs_count=6"/>
+  <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=Saniewski&langs_count=5&theme=transparent"/>
 </a>
 
 <br>
