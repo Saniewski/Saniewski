@@ -8,11 +8,12 @@
 
 |About Me||
 |-|-|
-|**:bulb: Info:**|Male \| 26 years old \| Warsaw, Poland \| New York City, USA|
+|**:bulb: Info:**|Male \| 28 years old \| Warsaw, Poland \| New York City, USA|
 |**:computer: Programming:**|[![Go][127]][27] [![Python][113]][13] [![C#][104]][4] [![.NET][105]][5] [![Mono][106]][6] [![Java][112]][12]<br>[![JavaScript][109]][9] [![TypeScript][110]][10] [![Angular][107]][7] [![React][131]][31] [![Vue.js][108]][8]<br>[![Bash][111]][11]|
 |**:cloud: Infrastructure:**|[![Docker][135]][35] [![Swarm][136]][36] [![Terraform][137]][37] [![Kubernetes][138]][38] [![Helm][139]][39] [![RabbitMQ][140]][40] [![MQTT][141]][41]<br>[![GCP][132]][32] [![AWS][133]][33]|
-|**:bar_chart: Analytics:**|[![Python][113]][13]<br>[![PostgreSQL][129]][29] [![MySQL][114]][14] [![MariaDB][142]][42] [![MS SQL Server][115]][15]<br>[![BigQuery][143]][43] [![Looker Studio][144]][44] [![MongoDB][130]][30] [![Cassandra][145]][45] [![Redis][146]][46] [![etcd][147]][47] [![Milvus][148]][48] [![Qdrant][149]][49]<br>[![QGIS][134]][34] [![Excel][116]][16]|
-|**:notebook: Management:**|[![Jira][117]][17] [![VersionOne][150]][50] [![Confluence][118]][18] [![Git][119]][19] [![GitHub][151]][51] [![GitLab][152]][52] [![Lark][153]][53] [![GanttProject][120]][20]|
+|**:bar_chart: Analytics & DB:**|[![Python][113]][13]<br>[![PostgreSQL][129]][29] [![MySQL][114]][14] [![MariaDB][142]][42] [![MS SQL Server][115]][15]<br>[![BigQuery][143]][43] [![Looker Studio][144]][44] [![MongoDB][130]][30] [![Cassandra][145]][45] [![Redis][146]][46] [![etcd][147]][47] [![Milvus][148]][48] [![Qdrant][149]][49]<br>[![Grafana][155]][55] [![QGIS][134]][34] [![Excel][116]][16]|
+|**:sparkles: AI:**|[![OpenRouter][157]][57] [![Pi][158]][58] [![OpenCode][159]][59] [![Codex][160]][60] [![Claude][161]][61]|
+|**:notebook: Management:**|[![Jira][117]][17] [![VersionOne][150]][50] [![Confluence][118]][18] [![Testrail][156]][56] [![Git][119]][19] [![GitHub][151]][51] [![GitLab][152]][52] [![Lark][153]][53] [![GanttProject][120]][20]|
 |**:thought_balloon: Languages:**|[![English][121]][21] [![Polish][122]][22]|
 |**:fire: Open Source:**|[![Jupyter][128]][28] [![OpenTofu][154]][54] [![ProtonDB][125]][25]<br>[![Manjaro][126]][26] [![Zorin OS][123]][23] [![Debian][124]][24]|
 
@@ -128,6 +129,13 @@
 [52]: https://about.gitlab.com
 [53]: https://www.larksuite.com
 [54]: https://opentofu.org
+[55]: https://grafana.com
+[56]: https://www.testrail.com
+[57]: https://openrouter.ai
+[58]: https://pi.dev
+[59]: https://opencode.ai
+[60]: https://openai.com/codex
+[61]: https://claude.com
 
 [101]: https://img.shields.io/github/followers/Saniewski?style=social
 [102]: https://img.shields.io/badge/LinkedIn-500+-0077B5?style=social&logo=linkedin
@@ -183,3 +191,10 @@
 [152]: https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=black
 [153]: https://img.shields.io/badge/Lark-3570FF?style=plastic&logo=lark&logoColor=white
 [154]: https://img.shields.io/badge/OpenTofu-FFDA18?style=plastic&logo=opentofu&logoColor=black
+[155]: https://img.shields.io/badge/Grafana-FF671D?style=plastic&logo=grafana&logoColor=white
+[156]: https://img.shields.io/badge/TestRail-65C179?style=plastic&logo=testrail&logoColor=white
+[157]: https://img.shields.io/badge/OpenRouter-94A3B8?style=plastic&logo=openrouter&logoColor=white
+[158]: https://img.shields.io/badge/Pi-EBE7E3?style=plastic&logo=pi&logoColor=black
+[159]: https://img.shields.io/badge/OpenCode-FFFFFF?style=plastic&logo=opencode&logoColor=black
+[160]: https://img.shields.io/badge/Codex-7D8FF1?style=plastic&logo=openai&logoColor=black
+[161]: https://img.shields.io/badge/Claude-D97757?style=plastic&logo=claude&logoColor=white
